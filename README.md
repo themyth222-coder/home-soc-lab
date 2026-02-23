@@ -75,6 +75,8 @@ This project is a fully functional home Security Operations Center (SOC) environ
 I created this home SOC lab to gain hands‑on experience with real security tools, log analysis, and endpoint monitoring. This project helped me practice SIEM configuration, Linux administration, Windows event monitoring, and secure remote access using Cloudflare Zero‑Trust. It also supports my long‑term goal of working in IT support, networking, or system administration.
 
 ---
+“Infrastructure Setup”
+<img width="1610" height="840" alt="Screenshot 2026-02-23 001231" src="https://github.com/user-attachments/assets/026984a9-78c8-4f95-ae44-9f64d8f671a6" />
 
 ---
 
