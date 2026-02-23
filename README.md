@@ -76,9 +76,6 @@ I created this home SOC lab to gain hands‑on experience with real security too
 
 ---
 
-## Screenshots
-
-
 ---
 
 ## Future Improvements
@@ -92,4 +89,4 @@ I created this home SOC lab to gain hands‑on experience with real security too
 ---
 
 ## Resume
-My full résumé is available upon request or on my LinkedIn profile.
+My full résumé is available upon request or on my LinkedIn profile. im seeking an entry level postion to kick start my carrerr
